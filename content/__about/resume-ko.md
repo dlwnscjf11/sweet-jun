@@ -4,7 +4,7 @@ date: 2022-3-26 13:21:13
 lang: 'ko'
 ---
 
-# 한재엽 (Jbee)
+# 이준철 (Jbee)
 
 <div align="right"><sub><i>Last updated: 2022.03.26</i></sub></div>
 
@@ -32,12 +32,12 @@ lang: 'ko'
 
 ## TossPayments
 
-|              |                                                          |
-| -----------: | -------------------------------------------------------- |
-|   **period** | 20.10 ~ current                                          |
+|              |                                                                                                           |
+| -----------: | --------------------------------------------------------------------------------------------------------- |
+|   **period** | 20.10 ~ current                                                                                           |
 | **position** | [Frontend Chapter](https://tosspayments-dev.oopy.io/chapters/frontend/about), Dashboard Silo, Inflow Silo |
-| **projects** | 가맹점 대시보드 / 프런트엔드 배포 어드민       |
-|    *tech*    |  Next.js, TypeScript, react-query, react-hook-form, emotion |
+| **projects** | 가맹점 대시보드 / 프런트엔드 배포 어드민                                                                  |
+|       _tech_ | Next.js, TypeScript, react-query, react-hook-form, emotion                                                |
 
 #### 가맹점 대시보드 (20.10 ~ current)
 
@@ -78,12 +78,12 @@ lang: 'ko'
 
 ## LINE Financial Plus
 
-|              |                                                                 |
-| -----------: | --------------------------------------------------------------- |
-|   **period** | 18.11 ~ 20.04                                                   |
-| **position** | Web Dev 2 / Front-End Engineer                                  |
-| **projects** | LINE Indonesia Bank, Smart Invest Japan, Webview SDK, Mentoring |
-| **tech** | TypeScript, React, Redux, redux-saga, react-router, react-i18n, jest, Storybook |
+|              |                                                                                 |
+| -----------: | ------------------------------------------------------------------------------- |
+|   **period** | 18.11 ~ 20.04                                                                   |
+| **position** | Web Dev 2 / Front-End Engineer                                                  |
+| **projects** | LINE Indonesia Bank, Smart Invest Japan, Webview SDK, Mentoring                 |
+|     **tech** | TypeScript, React, Redux, redux-saga, react-router, react-i18n, jest, Storybook |
 
 #### Indonesia Bank (19.02 ~ 20.04)
 
@@ -113,7 +113,7 @@ lang: 'ko'
 |  **period**  | 17.07 ~ 18.10                      |
 | **position** | FE Platform / Front-End Engineer   |
 | **projects** | SmartAround, generator-sau-webpack |
-| **tech** | TypeScript, jQuery, lerna |
+|   **tech**   | TypeScript, jQuery, lerna          |
 
 #### SmartAround Service (18.02 ~ 18.10)
 
@@ -132,7 +132,6 @@ lang: 'ko'
 - 개인 토이 프로젝트 용으로도 만들어서 사용. ([GitHub Repository](https://github.com/JaeYeopHan/generator-toy-project))
 
 <br />
-
 
 # Communities
 
@@ -156,7 +155,6 @@ lang: 'ko'
 - [FEConf Organizer](https://2020.feconf.kr/) (18.06 ~ current)
 - [우아한테크코스 리뷰어](https://woowacourse.github.io/about.html) (21.02 ~ 21.06)
 - [커넥트재단 부스트캠프 리뷰어](https://boostcamp.connect.or.kr/) (20.08 ~ 20.10)
-
 
 #### Lecture
 
