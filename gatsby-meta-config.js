@@ -11,11 +11,11 @@ module.exports = {
     facebook: `devjbee`,
   },
   icon: `content/assets/blog-favicon.png`,
-  thumbnail: `https://jbee.io/jbee-io.png`,
+  thumbnail: ``,
   resume: {
     title: 'About Jun',
     description: 'docs: Update RESUME.md for introducing myself',
-    // thumbnail: 'https://jbee.io/about_thumbnail.png',
+    thumbnail: '',
   },
   keywords: [
     `blog`,
