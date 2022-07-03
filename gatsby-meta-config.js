@@ -1,7 +1,7 @@
 module.exports = {
-  title: `JBEE.io`,
+  title: `JUN.io`,
   description: `Blog posted about front end development.`,
-  author: `Jbee`,
+  author: `JUN`,
   introduction: `Web Engineer Interested in 설계.테스트.생산성.자동화.멘토링. FEConf Organizer @FEDG`,
   siteUrl: `https://jbee.io`,
   social: {
@@ -13,7 +13,7 @@ module.exports = {
   icon: `content/assets/blog-favicon.png`,
   thumbnail: `https://jbee.io/jbee-io.png`,
   resume: {
-    title: 'About Jbee',
+    title: 'About Jun',
     description: 'docs: Update RESUME.md for introducing myself',
     thumbnail: 'https://jbee.io/about_thumbnail.png',
   },
@@ -35,12 +35,12 @@ module.exports = {
     countOfInitialPost: 10,
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'JUN',
   },
   share: {
     facebookAppId: '829988527335744', // v3.2
   },
-  revueId: 'jbee',
+  revueId: 'JUN',
   ga: 'UA-79845333-3',
   sentryDsn: 'https://031a7d403c7d43c69b30e8f18c56ced0@sentry.io/1396146',
 }
