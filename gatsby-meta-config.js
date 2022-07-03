@@ -15,7 +15,7 @@ module.exports = {
   resume: {
     title: 'About Jun',
     description: 'docs: Update RESUME.md for introducing myself',
-    thumbnail: 'https://jbee.io/about_thumbnail.png',
+    // thumbnail: 'https://jbee.io/about_thumbnail.png',
   },
   keywords: [
     `blog`,
