@@ -38,7 +38,7 @@ lang: 'ko'
 | **projects** | 자작자작 / 워드프레스 기반 외주 개발                                         |
 |       _tech_ | Next.js, ReactJs, Javascript , Jqeury , PHP , Mysql , Wordpress              |
 
-#### 자작자작 (18.05 ~ current)
+#### 자작자작 (18.05 ~ current) [링크](https://jajakjajak.com/)
 
 - 자작자작 플랫폼 전반적인 UI 개발
 - 그룹 멤버 상호 작용이 가능한 SNS 형태의 그룹홈 대시보드 프론트 엔드 개발
@@ -51,7 +51,7 @@ lang: 'ko'
 
 #### 워드프레스 기반 외주 개발 (18.05 ~ 18.11)
 
-- 워드프레스 CMS 사용 백엔드 / 프론트엔드 동시 개발
+- 워드프레스 CMS 사용 백엔드 / 프론트엔드 동시 개발 [디자인 및 실제 서비스 결과물](https://juncheol.notion.site/cbca268f04034870add75d9d98f9cfda)
 - SNS / 쇼핑몰 융합 플랫폼 '문득' 전체 서비스 개발
 - 대리점 관리 및 세부 자전거 스펙 입력이 가능한 엠비에스코퍼레이션 쇼핑몰 프론트엔드 개발 및 백엔드 개발 보조
 
