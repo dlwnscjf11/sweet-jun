@@ -6,7 +6,7 @@ GitHubTheme.overrideThemeStyles = () => {
     a: {
       boxShadow: `none`,
       textDecoration: `none`,
-      color: `#60D0D8`,
+      color: `#35BFC9`,
     },
     'a.gatsby-resp-image-link': {
       boxShadow: `none`,
