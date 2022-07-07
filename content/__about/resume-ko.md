@@ -38,7 +38,7 @@ lang: 'ko'
 | **projects** | 자작자작 / 워드프레스 기반 외주 개발                                         |
 |       _tech_ | Next.js, ReactJs, Javascript , Jqeury , PHP , Mysql , Wordpress              |
 
-#### 자작자작 (18.05 ~ current) [링크](https://jajakjajak.com/)
+#### 글쓰기 플랫폼 자작자작 (18.05 ~ current) [링크](https://jajakjajak.com/)
 
 - 자작자작 플랫폼 전반적인 UI 개발
 - 그룹 멤버 상호 작용이 가능한 SNS 형태의 그룹홈 대시보드 프론트 엔드 개발
