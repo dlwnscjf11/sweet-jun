@@ -2,8 +2,8 @@ module.exports = {
   title: `JUN.io`,
   description: `Blog posted about front end development.`,
   author: `JUN`,
-  introduction: `Web Engineer Interested in 설계.테스트.생산성.자동화.멘토링. FEConf Organizer @FEDG`,
-  siteUrl: `https://jbee.io`,
+  introduction: `Web Front-End Engineer`,
+  siteUrl: `https://sweetyjun.gatsbyjs.io/about`,
   social: {
     twitter: `JbeeLjyhanll`,
     github: `JaeYeopHan`,
@@ -29,7 +29,7 @@ module.exports = {
   ],
   comment: {
     disqusShortName: '',
-    utterances: 'JaeYeopHan/JBEE.io',
+    utterances: 'LeeJunCheol/JUN.io',
   },
   configs: {
     countOfInitialPost: 10,
@@ -41,6 +41,6 @@ module.exports = {
     facebookAppId: '829988527335744', // v3.2
   },
   revueId: 'JUN',
-  ga: 'UA-79845333-3',
-  sentryDsn: 'https://031a7d403c7d43c69b30e8f18c56ced0@sentry.io/1396146',
+  // ga: 'UA-79845333-3',
+  // sentryDsn: 'https://031a7d403c7d43c69b30e8f18c56ced0@sentry.io/1396146',
 }
